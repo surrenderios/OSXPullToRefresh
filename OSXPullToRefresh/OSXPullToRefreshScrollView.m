@@ -110,7 +110,7 @@
     [_textField setHidden:YES];
     [_indicator startAnimation:nil];
     
-    [self performSelector:@selector(stopLoading) withObject:nil afterDelay:3];
+    //   [self performSelector:@selector(stopLoading) withObject:nil afterDelay:3];
 }
 
 - (void)stopLoading
