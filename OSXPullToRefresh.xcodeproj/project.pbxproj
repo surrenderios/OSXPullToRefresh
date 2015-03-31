@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F58A1D71ACA42CF0002C0CD /* 80B7F5E6-32D4-4B5B-9B8E-0392AF6288D3.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F58A1D61ACA42CF0002C0CD /* 80B7F5E6-32D4-4B5B-9B8E-0392AF6288D3.png */; };
 		F748A30F187FBD9600129C16 /* OSXPullToRefreshScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = F748A30E187FBD9600129C16 /* OSXPullToRefreshScrollView.m */; };
 		F7D5E7B7187E736D00DFB965 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7D5E7B6187E736D00DFB965 /* Cocoa.framework */; };
 		F7D5E7C1187E736D00DFB965 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F7D5E7BF187E736D00DFB965 /* InfoPlist.strings */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2F58A1D61ACA42CF0002C0CD /* 80B7F5E6-32D4-4B5B-9B8E-0392AF6288D3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "80B7F5E6-32D4-4B5B-9B8E-0392AF6288D3.png"; sourceTree = "<group>"; };
 		F748A30D187FBD9600129C16 /* OSXPullToRefreshScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OSXPullToRefreshScrollView.h; sourceTree = "<group>"; };
 		F748A30E187FBD9600129C16 /* OSXPullToRefreshScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OSXPullToRefreshScrollView.m; sourceTree = "<group>"; };
 		F7D5E7B3187E736D00DFB965 /* OSXPullToRefresh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OSXPullToRefresh.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -140,6 +142,7 @@
 		F7D5E7BD187E736D00DFB965 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2F58A1D61ACA42CF0002C0CD /* 80B7F5E6-32D4-4B5B-9B8E-0392AF6288D3.png */,
 				F7D5E7F8187E9CDC00DFB965 /* Arrow.png */,
 				F7D5E7F9187E9CDC00DFB965 /* Arrow@2x.png */,
 				F7D5E7BE187E736D00DFB965 /* OSXPullToRefresh-Info.plist */,
@@ -250,6 +253,7 @@
 				F7D5E7FB187E9CDC00DFB965 /* Arrow@2x.png in Resources */,
 				F7D5E7C7187E736D00DFB965 /* Credits.rtf in Resources */,
 				F7D5E7FA187E9CDC00DFB965 /* Arrow.png in Resources */,
+				2F58A1D71ACA42CF0002C0CD /* 80B7F5E6-32D4-4B5B-9B8E-0392AF6288D3.png in Resources */,
 				F7D5E7CD187E736D00DFB965 /* MainMenu.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

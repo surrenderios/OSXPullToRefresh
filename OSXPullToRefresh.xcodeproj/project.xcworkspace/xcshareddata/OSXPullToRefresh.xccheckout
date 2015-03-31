@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DF49A24A-16AE-4A68-9F7C-FABA57C3146C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OSXPullToRefresh</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>00CBC0814C00503102C4D8EE63B09CC2D77C665C</key>
+		<string>https://github.com/surrenderios/OSXPullToRefresh.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OSXPullToRefresh.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>00CBC0814C00503102C4D8EE63B09CC2D77C665C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/surrenderios/OSXPullToRefresh.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>00CBC0814C00503102C4D8EE63B09CC2D77C665C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>00CBC0814C00503102C4D8EE63B09CC2D77C665C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OSXPullToRefresh</string>
+		</dict>
+	</array>
+</dict>
+</plist>

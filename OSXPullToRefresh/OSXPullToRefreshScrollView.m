@@ -110,13 +110,13 @@
     [_textField setHidden:YES];
     [_indicator startAnimation:nil];
     
-    //   [self performSelector:@selector(stopLoading) withObject:nil afterDelay:3];
+    [self performSelector:@selector(stopLoading) withObject:nil afterDelay:3];
 }
 
 - (void)stopLoading
 {
     _isRefreshing = NO;
     [self createHeaderView:NSMakePoint(0, 0-HEADERVIEW_HEIGHT)];
-    [self.documentView setFrameOrigin:NSMakePoint(0, 0)];
+    [[self.documentView animator]setFrameOrigin:NSMakePoint(0, 0)];
 }
 @end
